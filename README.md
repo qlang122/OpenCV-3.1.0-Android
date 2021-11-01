@@ -16,7 +16,7 @@ Add jitpack.io on the repositories section, you may need to keep another lines:
 Then on the dependencies section you need to reference this library:
 
 ```
-    compile 'com.github.ctodobom:OpenCV-3.1.0-Android:-SNAPSHOT'
+    compile 'com.github.qlang122:OpenCV-3.1.0-Android:v1.0.0'
 ```
 
 After this, ```org.opencv.*``` packages will be availeble for import.
